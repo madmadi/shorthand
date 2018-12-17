@@ -2,7 +2,7 @@
 Bash script to make shorthand or alternatives for commands and values.
 
 # Quick installation
-`$ sudo curl https://raw.githubusercontent.com/Mahdimeraji07/shorthand/master/shorthand.sh -#sSLo /usr/bin/shorthand && sudo chmod 755 /usr/bin/shorthand && sudo ln -s /usr/bin/shorthand /usr/bin/sho`
+`$ sudo curl https://raw.githubusercontent.com/madmadi/shorthand/master/shorthand.sh -#sSLo /usr/bin/shorthand && sudo chmod 755 /usr/bin/shorthand && sudo ln -s /usr/bin/shorthand /usr/bin/sho`
 _after installation `sho` & `shorthand` will be available._
 
 ## Usage
